@@ -14,7 +14,7 @@
 
 ## About Me
 * 🌉 &nbsp;I'm from Delhi, India
-* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Java. And also learning Web Development side by side
+* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms (DSA) in C++. And also learning Web Development side by side
 
 ## Languages and tools 
 ![skills](https://skillicons.dev/icons?i=html,css,py,git,cpp,c,js&theme=light)
@@ -23,6 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariTP&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HariTP&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
 
 ![profile views](https://komarev.com/ghpvc/?username=HariTP&style=flat&color=brightgreen&label=Profile+Views)
 
